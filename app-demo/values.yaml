@@ -8,7 +8,7 @@ image:
   repository: harbor-dev.ezscore.vn/test/demo-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.48"
+  tag: "v1.50"
 
 imagePullSecrets: []
 nameOverride: ""
